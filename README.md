@@ -1,4 +1,4 @@
-# Curso de _Git_ & _GitHub
+# Curso de _Git_ & _GitHub_
 
 Hola soy Wilmar probando en línea con el curso con Mircha
 
