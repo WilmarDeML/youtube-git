@@ -1,0 +1,99 @@
+commit ffd798286cbe84b5e756a6fc456ec1dc72207a24
+Merge: 1a657b1 4927fca
+Author: Wilmar Zapata <wavilla@stefanini.com>
+Date:   Mon Aug 8 14:03:15 2022 -0500
+
+    Resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit 1a657b121591818a1ebc9c4a6ef2bb36b03849cf
+Author: Wilmar Zapata <wavilla@stefanini.com>
+Date:   Mon Aug 8 13:51:52 2022 -0500
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 4927fca07f22eeb370c4e72b6f71e6766459e8f7
+Author: Wilmar Zapata <wavilla@stefanini.com>
+Date:   Mon Aug 8 13:51:52 2022 -0500
+
+    Agregando estaciones del año
+
+commit 22f2ded5cea4806fe7a899f0e8ea422eed66754d
+Merge: be44d9f 63c0687
+Author: Wilmar Zapata <wavilla@stefanini.com>
+Date:   Mon Aug 8 13:44:33 2022 -0500
+
+    Resolviendo conflictos main/html en el documento index.html
+
+commit 63c06873eea97153710c89ee8933ae3609de83a0
+Author: Wilmar Zapata <wavilla@stefanini.com>
+Date:   Mon Aug 8 13:35:05 2022 -0500
+
+    Agregando index.js al index.html
+    +
+
+commit be44d9faaeca257f1d3646d60a075a31b086018a
+Author: Wilmar Zapata <wavilla@stefanini.com>
+Date:   Mon Aug 8 13:32:29 2022 -0500
+
+    Agregando style.css al index.html
+
+commit d28b07157b4c6d91ba9de6d7b55a3390f05473dc
+Merge: 3381386 c82f41f
+Author: Wilmar Zapata <wavilla@stefanini.com>
+Date:   Mon Aug 8 13:15:13 2022 -0500
+
+    Merge branch 'js'
+
+commit c82f41ff3e0c3b4b99172efb40911a690241f5fd
+Author: Wilmar Zapata <wavilla@stefanini.com>
+Date:   Mon Aug 8 13:10:30 2022 -0500
+
+    Creando index.js
+
+commit 3381386849330156064d5e2cbea926580a089cbb
+Author: Wilmar Zapata <wavilla@stefanini.com>
+Date:   Mon Aug 8 13:06:42 2022 -0500
+
+    Creando estilos csss
+
+commit 6488d8e35e2d5bc7aea00d58b35274826d3be84d
+Author: Wilmar Zapata <wavilla@stefanini.com>
+Date:   Mon Aug 8 13:02:59 2022 -0500
+
+    Creando index.html
+
+commit 916e95e026530a966ddd6fc99cbafdfdc630eccc
+Author: Wilmar Zapata <wavilla@stefanini.com>
+Date:   Mon Aug 8 12:49:32 2022 -0500
+
+    Ignorando archivos .exe
+
+commit 62b58cc19b2edc8bad482419b75df99a0bb39f04
+Author: Wilmar De MelquisedecLisbet <carewaz23@hotmail.com>
+Date:   Mon Aug 8 12:20:58 2022 -0500
+
+    Creando licencia del repositorio
+
+commit 0e2283b5417d6d90495ea02998d6addcd64f41a3
+Author: Wilmar Zapata <wavilla@stefanini.com>
+Date:   Mon Aug 8 12:17:24 2022 -0500
+
+    Agregando guión bajo al título
+
+commit 2196b979e0b3d0d4cc8828ef3fa6e9bd7fdf72a2
+Author: Wilmar Zapata <wavilla@stefanini.com>
+Date:   Mon Aug 8 12:15:46 2022 -0500
+
+    Agregando más contenido al readme
+
+commit c1db7daea23df6fb27a3fe135b54b5b3f43cc11d
+Author: Wilmar Zapata <wavilla@stefanini.com>
+Date:   Mon Aug 8 12:06:33 2022 -0500
+
+    Agregando contenido inicial al read
+
+commit d19342cbcc55980dc0edc9e2f0802dcc989b1010
+Author: Wilmar Zapata <wavilla@stefanini.com>
+Date:   Mon Aug 8 12:00:34 2022 -0500
+
+    Primer commit 😋
